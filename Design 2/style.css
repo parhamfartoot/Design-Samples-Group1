@@ -574,6 +574,9 @@ html {
     .Contact1-form{
       width: 100%;
     }
+    .Contact1-form{
+      transform: translateY(0rem) rotateY(0deg);
+  }
   }
   
   @media (max-width: 750px) {
@@ -597,6 +600,9 @@ html {
     }
     .Contact1-form{
       width: 100%;
+    }
+    .Contact1-form{
+      transform: translateY(0rem) rotateY(0deg);
     }
   }
   
@@ -645,6 +651,9 @@ html {
     }
     .Contact1-form{
       width: 100%;
+    }
+    .Contact1-form{
+      transform: translateY(0rem) rotateY(0deg);
     }
   }
   /* End of Responsive */
